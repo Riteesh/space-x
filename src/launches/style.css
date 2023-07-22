@@ -1,0 +1,25 @@
+.launch{
+height: 330px;
+width: 1000px;
+padding: 8px;
+display: flex;
+box-shadow: 1px 1px 9px 1px darkkhaki;
+margin-top: 50px;
+margin-left: 50px;
+}
+.launch img{
+    height:290px;
+    width:300px;
+}
+.content .info{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.content .p{
+    color: grey;
+}
+.content{
+    margin-left: 20px;
+    font-size: 20px;
+}
