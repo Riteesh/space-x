@@ -1,6 +1,6 @@
 .launch{
 height: 330px;
-width: 800px;
+width: 1000px;
 padding: 8px;
 display: flex;
 box-shadow: 1px 1px 9px 1px darkkhaki;
@@ -12,8 +12,7 @@ margin-left: 50px;
     width:300px;
 }
 .content .info{
-    display: flex;
-    justify-content: space-between;
+    font-size: large;
     width: 80%;
 }
 .content .p{
@@ -22,4 +21,8 @@ margin-left: 50px;
 .content{
     margin-left: 20px;
     font-size: 20px;
+    display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+    overflow:hidden
 }
