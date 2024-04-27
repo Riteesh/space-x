@@ -9,7 +9,7 @@ This repository contains code to harness React and SpaceX's public API, deliveri
 - **Real-Time Updates**: Utilize SpaceX's public API to fetch real-time launch details.
 - **Interactive Interface**: Seamlessly interact with launch data for a smooth user experience.
 - **Comprehensive Information**: Access detailed information about SpaceX launches.
-- 
+  
 ## Setup Instructions
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
